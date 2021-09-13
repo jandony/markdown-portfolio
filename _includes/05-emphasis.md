@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**My Top 3 Programming Languages**
+1. CSS 🖌️
+2. JavaScript ✂️
+3. PHP 🏠
